@@ -60,3 +60,10 @@ The source code for this project is available in the repository. Please ensure y
 # Future Enhancements
 Adding more categories for news content.
 Integrating push notifications for breaking news.
+![Screenshot 2024-09-09 234635](https://github.com/user-attachments/assets/bd335214-df7c-4b75-b504-c5821324ef7a)
+![Screenshot 2024-09-09 234540](https://github.com/user-attachments/assets/313e16f0-5b59-4c31-98aa-2e13e4a8c87c)
+![Screenshot 2024-09-12 233521](https://github.com/user-attachments/assets/6f3d5636-89f8-4e9b-b13a-67d300e3cac5)
+![Screenshot 2024-09-09 234748](https://github.com/user-attachments/assets/3550819f-d243-4d54-8867-b922a1b104f6)
+
+
+
